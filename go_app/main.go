@@ -7,9 +7,9 @@ package main
 
 import "fmt"
 
-/* 
+/*
 * This function calculates the area of a triangle
-*/
+ */
 func main() {
 	// variables for calculation
 	var base int
